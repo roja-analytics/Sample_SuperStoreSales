@@ -230,8 +230,6 @@ This project demonstrates a complete data analytics workflow using SQL, Python, 
 
 ## 👨‍💻 Author
 
-**Your Name**
-
 Aspiring Data Analyst
 
 **Skills:** SQL • Python • Power BI • Excel • GitHub • Data Analytics
